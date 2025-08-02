@@ -12,8 +12,11 @@
   "badge_colour": "F62681",
   "badge_text_colour": "FFFFFF",
   "dependencies": [
-    "Steamodded (>=1.0.0~BETA-0711a)"
-  ],
+    "Talisman",
+    "Steamodded",
+    "Cryptid",
+    "Cryptposting"
+]
   "provides": [
     "Dank Ranks"
   ]
