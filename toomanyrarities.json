@@ -1,0 +1,21 @@
+{
+  "id": "toomanyrarities",
+  "name": "Too Many Rarities",
+  "author": [
+    "Ayden",
+    "cop20203"
+  ],
+  "description": "A mod that adds way too many custom ranks, in a similar way as Sigil and Highest Priestess.",
+  "prefix": "tmr",
+  "main_file": "tmr.lua",
+  "version": "0.0.0~beta-1.0.0",
+  "priority": 0,
+  "badge_colour": "000000",
+  "badge_text_colour": "000000",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0711a)"
+  ],
+  "provides": [
+    "Dank Ranks"
+  ]
+}
