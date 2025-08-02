@@ -269,33 +269,28 @@ SMODS.Rarity({
 	badge_colour = HEX("A84B1E")
 })
 
-
-SMODS.Rarity({
-	key = "🤓",
-	badge_colour = HEX("FFFF00")
-})
-
-SMODS.Rarity({
-	key = "‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎",
-	badge_colour = HEX("FFFFFF")
-})
-
 SMODS.Rarity({
 	key = "E",
 	badge_colour = HEX("EEEEEE")
 })
 
 SMODS.Rarity({
-	key = "ඞ",
-	badge_colour = HEX("FF0000")
-})
-
-SMODS.Rarity({
-	key = "𐐘💥╾━╤デ╦︻ඞා",
-	badge_colour = HEX("000000")
-})
-
-SMODS.Rarity({
-	key = "🗿",
+	key = "SKULL EMOJI",
 	badge_colour = HEX("808080")
+})
+
+SMODS.Rarity({
+	key = "Moai",
+	badge_colour = HEX("808080")
+})
+
+
+SMODS.Rarity({
+	key = "Obama have Dihh",
+	badge_colour = HEX("5c4424")
+})
+
+SMODS.Rarity({
+	key = "Sigma",
+	badge_colour = HEX("FFFFFF")
 })
